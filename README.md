@@ -9,9 +9,9 @@ We also learn and how to program the system in the C language using the FreeRTOS
 
 The assignments are divided in two parts : 
 - To program real time solutions with the FreeRTOS API 
-- To simulate the task scheduling with **[SimSo(http://projects.laas.fr/simso/)]** simulator
+- To simulate the task scheduling with **[SimSo](http://projects.laas.fr/simso/)** simulator
 
-Course achieved with a score of 96.5% (**[Certificate(https://www.coursera.org/account/accomplishments/records/QGY27S7HR56A)]** available)
+Course achieved with a score of 96.5% (**[Certificate](https://www.coursera.org/account/accomplishments/records/QGY27S7HR56A)** available)
 
 ## Syllabus
 
