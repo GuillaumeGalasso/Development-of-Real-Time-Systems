@@ -7,7 +7,11 @@ Date: August - September 2017
 The course teaches how to plan real-time systems in theory using established mathematical proofs and how to implement them in practice by using the most common scheduling methods.
 We also learn and how to program the system in the C language using the FreeRTOS real-time kernel.
 
-Course achieved with a score of 96.5% (**[Certificate](https://www.coursera.org/account/accomplishments/records/QGY27S7HR56A)** available)
+The assignments are divided in two parts : 
+- To program real time solutions with the FreeRTOS API 
+- To simulate the task scheduling with **[SimSo(http://projects.laas.fr/simso/)]** simulator
+
+Course achieved with a score of 96.5% (**[Certificate(https://www.coursera.org/account/accomplishments/records/QGY27S7HR56A)]** available)
 
 ## Syllabus
 
