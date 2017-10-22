@@ -11,7 +11,7 @@ The assignments are divided in two parts :
 - To program real time solutions with the FreeRTOS API 
 - To simulate the task scheduling with **[SimSo](http://projects.laas.fr/simso/)** simulator
 
-Course achieved with a score of 96.5% (**[Certificate](https://www.coursera.org/account/accomplishments/records/QGY27S7HR56A)** available)
+Course achieved with a score of 96.5% (**[Certificate](certificate_99F8JBQ74VNT.pdf)** and **[Course informations](https://www.coursera.org/account/accomplishments/verify/99F8JBQ74VNT)** available)
 
 ## Syllabus
 
